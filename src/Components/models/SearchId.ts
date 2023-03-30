@@ -1,1 +1,1 @@
-export interface ISearchId {  searchId: string;}
+export type ISearchId = {  searchId: string;};
