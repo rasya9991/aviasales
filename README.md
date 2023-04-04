@@ -1,1 +1,1 @@
-vercel : https://aviasales-gules.vercel.app/
+vercel : https://aviasales-asreouoq8-rasya9991.vercel.app/
